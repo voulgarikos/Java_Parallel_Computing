@@ -1,0 +1,32 @@
+Apotelesmata
+
+1. Piramata Xronou
+arxeio: MySqrtStatic.java
+Pirama 1 - Statheros Arithmos Nimaton N=4
+Megethos Pinaka	: 1000	10000	100000	1000000	10000000    100000000
+Time in ms	:       4	        8	          9	          22	            29	102
+
+Pirama 2 - Statheros Arithmos Nimaton N=8
+Megethos Pinaka	: 1000	10000	100000	1000000	10000000    100000000
+Time in ms	:       9	        8	        11	          29	            35	115
+
+Pirama 3 - Statheros Arithmos Nimaton N=16
+Megethos Pinaka	: 1000	10000	100000	1000000	10000000    100000000
+Time in ms	:     12	      14	        18	          47	            56                115
+
+Pirama 4 - Stathero Megethos Pinaka N=1000000
+Arithmos Nimaton	:	2	4	8	16	32
+Time in ms	:	17	21	29	35	34
+
+2.1 - Arithmos Nimaton isos me Megethos Pinaka
+Nimata = Megethos Pinaka	: 2	4	8	16	32	64
+Time in ms		: 0	0	4	12	21	38
+
+2.2 - Statiki Katanomi Ypologismou
+Nimata		: 1	2	4	8	16	32
+Megethos Pinaka	:  1000	2000	5000	10000	100000	1000000
+Time in ms	:       4	      4	     4	        8	        15	          54
+
+3. Arxeio MyMatVecs.java 
+To erotima 3 tis ergasias den exei apantithei akoma afou kollisa ston kodika. Exo diatyposei erotima sta sxoleia tou programmatos
+
